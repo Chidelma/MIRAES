@@ -25,7 +25,7 @@ git clone https://github.com/your-username/MIRAES.git
 * Install the dependencies:
 
 ```bash
-cd MerkFabz
+cd MIRAES
 npm install
 ```
 
